@@ -111,7 +111,7 @@ canvas{ position: absolute; left: 0; top: 360px; width: 100%; z-index: 1; height
 #banner a{ }
 #banner .main_box{ position: relative; z-index: 9995;}
 #banner img{ display: block; margin: 0 auto; padding-top: 255px;} 
-#banner a{  display:block; text-align: center; border-radius: 27.5px; width: 200px; text-transform: uppercase; margin: 0 auto; margin-top: 45px; line-height: 55px; height: 55px; font-size: 18px;  color: #fff; background:#000;}
+#banner a{  display:block; text-align: center; border-radius: 27.5px; width: 200px; text-transform: uppercase; margin: 0 auto; margin-top: 200px; line-height: 55px; height: 55px; font-size: 24px;  color: #fff; background:#000;}
 #banner a:hover{ background: -moz-linear-gradient(left, rgba(28,92,217,1)0,  rgba(118,26,187,1)100%);
 background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(118,26,187,1)), color-stop(100%, rgba(28,92,217,1)));
 background: -webkit-linear-gradient(left, rgba(28,92,217,1)0, rgba(118,26,1871)100%);
